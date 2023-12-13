@@ -1,3 +1,7 @@
+This repository has been cloned from https://github.com/Gerrit0/typedoc-packages-example to provide an example
+of a bug in typedoc-plugin-markdown where `outputFileStrategy` for packages' typedoc.json configuration files
+is ignored.
+
 # TypeDoc Packages Example
 
 This monorepo provides an example of how TypeDoc's packages mode can be used to generate documentation
